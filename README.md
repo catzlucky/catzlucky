@@ -1,6 +1,12 @@
-### found the secret page!!!!!
+### Hello guys, my name is catzlucky!!
+\n
+\n
 
-### hey everyone!!!!
+i'm a beginner, so i have to learn a lot...
+
+currently seem to be interested in c#, python, java.
+
+site may come soon.
 
 <!--
 **catzlucky/catzlucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
