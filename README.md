@@ -1,12 +1,23 @@
-### Hello guys, my name is catzlucky!!
-\n
-\n
+# Hello guys, wecome to my userpage!!
 
-i'm a beginner, so i have to learn a lot...
 
-currently seem to be interested in c#, python, java.
+Beginner coder back-end i guess
 
-site may come soon.
+### preferred languages
+- c#
+- java
+- python
+
+### learning soon
+- c++
+- gui
+- js?
+
+## very soon
+a personal site may come soon.
+
+# other things
+- i play osu!
 
 <!--
 **catzlucky/catzlucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
