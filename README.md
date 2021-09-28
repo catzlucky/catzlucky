@@ -3,21 +3,25 @@
 
 Beginner coder back-end i guess
 
-### preferred languages
+### preferred languages (learning)
 - c#
 - java
-- python
+- python (python3.6 and qpython<!--hurray to pocket coding-->)
 
 ### learning soon
 - c++
-- gui
+- gui stuff
 - js?
 
 ## very soon
-a personal site may come soon.
+- a personal site may come soon.
+- i will plan some repos/appli in the near future
 
 # other things
 - i play osu!
+- i can also speak dutch and french
+- you can reach me via discord
+<!-- i want to be motivated to program ;w; -->
 
 <!--
 **catzlucky/catzlucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
