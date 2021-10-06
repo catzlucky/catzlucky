@@ -2,11 +2,12 @@
 
 
 Beginner coder back-end i guess
+i don't have much motivation, slow and steady i guess
 
 ### preferred languages (learning)
 - c#
 - java
-- python (python3.6 and qpython<!--hurray to pocket coding-->)
+- python
 
 ### learning soon
 - c++
@@ -17,10 +18,17 @@ Beginner coder back-end i guess
 - a personal site may come soon.
 - i will plan some repos/appli in the near future
 
+## Contact?
+
+- discord: catzlucky#3096
+- twitter: @727zenith
+- let me know by commiting if you use neither and want to contact me
+-
+
 # other things
-- i play osu!
+- i play osu!, etterna,... (yes i can 7k)
 - i can also speak dutch and french
-- you can reach me via discord
+
 <!-- i want to be motivated to program ;w; -->
 
 <!--
