@@ -1,4 +1,4 @@
-# Hello guys, wecome to my userpage!!
+# Hello guys, welcome to my userpage!!
 
 <!-- i want to be motivated to program ;w; -->
 
